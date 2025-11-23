@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-﻿# â˜ï¸ Cloud Automation Portfolio
+﻿# Cloud Automation Portfolio
 
-Hi there! ðŸ‘‹ I'm **[Your Name]**, a passionate Cloud Automation Engineer and Python developer who loves building **secure, scalable, and fully automated cloud solutions**. This repository showcases my **hands-on projects in Azure, Terraform, Python, and PL-900 tools**, designed to demonstrate real-world cloud skills for modern enterprise environments.
+Hi there! I'm **Euron Pennyman**, a passionate Cloud Automation Engineer and Python developer who loves building **secure, scalable, and fully automated cloud solutions**. This repository showcases my **hands-on projects in Azure, Terraform, Python, and PL-900 tools**, designed to demonstrate real-world cloud skills for modern enterprise environments.
 
 ---
 
-## ðŸš€ What Youâ€™ll Find Here
+## What You'll Find Here
 
 | Project Area | Description | Tech Stack |
 |-------------|-------------|-----------|
@@ -18,7 +17,7 @@ Hi there! ðŸ‘‹ I'm **[Your Name]**, a passionate Cloud Automation Engineer
 
 ---
 
-## ðŸŽ¯ Core Skills Demonstrated
+## Core Skills Demonstrated
 
 - **Cloud Infrastructure as Code:** Terraform deployments, secure network and RBAC management  
 - **Identity & Access Management:** Azure RBAC, Managed Identity, Key Vault secrets  
@@ -29,51 +28,48 @@ Hi there! ðŸ‘‹ I'm **[Your Name]**, a passionate Cloud Automation Engineer
 
 ---
 
-## ðŸ—ï¸ Folder Structure Overview
+## Folder Structure Overview
 
 \\\
 cloud-automation-portfolio/
-â”œâ”€â”€ Install-Tools-and-Setup-GitHub/
-â”œâ”€â”€ Create-Resource-Group-With-Terraform/
-â”œâ”€â”€ RBAC-Terraform/
-â”œâ”€â”€ Python-ServicePrincipal-Test/
-â”œâ”€â”€ Deploy-App-Service-With-Managed-Identity/
-â”œâ”€â”€ Create-Key-Vault-And-Store-Secrets/
-â”œâ”€â”€ Retrieve-Key-Vault-Secret-With-Python/
-â”œâ”€â”€ Deploy-Secure-VNet-And-Subnets/
-â”œâ”€â”€ Deploy-App-Service-Behind-VNet/
-â”œâ”€â”€ Python-WebApp-Development/
-â”œâ”€â”€ Deploy-Python-WebApp-To-Azure/
-â”œâ”€â”€ Python-Automation-Tools-For-Cloud-Ops/
-â”œâ”€â”€ Power-Automate-Workflow/
-â”œâ”€â”€ Power-App-With-Azure-Backend/
-â”œâ”€â”€ Power-BI-Dashboard/
-â””â”€â”€ Portfolio-Website/
+Install-Tools-and-Setup-GitHub/
+Create-Resource-Group-With-Terraform/
+RBAC-Terraform/
+Python-ServicePrincipal-Test/
+Deploy-App-Service-With-Managed-Identity/
+ Create-Key-Vault-And-Store-Secrets/
+Retrieve-Key-Vault-Secret-With-Python/
+ Deploy-Secure-VNet-And-Subnets/
+Deploy-App-Service-Behind-VNet/
+Python-WebApp-Development/
+Deploy-Python-WebApp-To-Azure/
+Python-Automation-Tools-For-Cloud-Ops/
+Power-Automate-Workflow/
+Power-App-With-Azure-Backend/
+ Power-BI-Dashboard/
+Portfolio-Website/
 \\\
 
 ---
 
-## ðŸŽ¨ Interactive Portfolio Demo
+## Interactive Portfolio Demo
 
 Visit the **live portfolio website** (placeholder or future deployment):
 
-[ðŸŒ My Cloud Portfolio Website](#)  
+[ My Cloud Portfolio Website](#)  
 
 ---
 
-## ðŸ’¡ Fun Fact
+## Fun Fact
 
-I love turning **complex cloud workflows into clean, automated solutions**. Think of me as the â€œrobot sidekickâ€ that makes enterprise cloud operations **faster, safer, and smarter**. ðŸ¤–ðŸ’»  
+I love turning **complex cloud workflows into clean, automated solutions**. Think of me as the robot sidekick that makes enterprise cloud operations **faster, safer, and smarter**.  
 
 ---
 
-## ðŸ“ˆ Letâ€™s Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
 - [GitHub](https://github.com/your-username)  
 - Email: your.email@example.com  
 
-> â€œAutomation and security are not just skills â€” theyâ€™re superpowers in modern cloud environments.â€ âœ¨
-=======
-# cloud-automation-portfolio
->>>>>>> 1a34f21ef3feefd130bbcd219be47766f9338163
+> Automation and security are not just skills, they're superpowers in modern cloud environments.
