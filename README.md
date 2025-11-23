@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# â˜ï¸ Cloud Automation Portfolio
 
 Hi there! ðŸ‘‹ I'm **[Your Name]**, a passionate Cloud Automation Engineer and Python developer who loves building **secure, scalable, and fully automated cloud solutions**. This repository showcases my **hands-on projects in Azure, Terraform, Python, and PL-900 tools**, designed to demonstrate real-world cloud skills for modern enterprise environments.
@@ -73,3 +74,6 @@ I love turning **complex cloud workflows into clean, automated solutions**. Thin
 - Email: your.email@example.com  
 
 > â€œAutomation and security are not just skills â€” theyâ€™re superpowers in modern cloud environments.â€ âœ¨
+=======
+# cloud-automation-portfolio
+>>>>>>> 1a34f21ef3feefd130bbcd219be47766f9338163
